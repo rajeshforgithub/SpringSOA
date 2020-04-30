@@ -1,0 +1,4 @@
+<aura:application extends="force:slds">
+	<p>Recent Accounts</p>
+    <c:recentAccounts></c:recentAccounts>
+</aura:application>
